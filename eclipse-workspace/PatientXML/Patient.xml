@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:patient xmlns:tns="http://bharaththippireddy.com/Patient" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bharaththippireddy.com/Patient Patient.xsd ">
+  <name>name</name>
+  <age>0</age>
+  <dob>2001-01-01</dob>
+  <email>email</email>
+  <gender>M</gender>
+  <phone>phone</phone>
+  <payment>
+    <insurance>
+      <providerName>providerName</providerName>
+      <limit>0</limit>
+    </insurance>
+  </payment>
+</tns:patient>

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/Users/benminh1201/Downloads/Udemy/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1786810210.index
+/simple-service-webapp/src/main/java
+/Users/benminh1201/Downloads/Udemy/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3404028428.index
+/jerseyws/src/main/java
